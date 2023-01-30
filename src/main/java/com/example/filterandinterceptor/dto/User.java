@@ -1,4 +1,4 @@
-package com.example.filter.dto;
+package com.example.filterandinterceptor.dto;
 
 import lombok.*;
 

@@ -1,4 +1,4 @@
-package com.example.filter;
+package com.example.filterandinterceptor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
